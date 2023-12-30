@@ -1,2 +1,22 @@
 Install react icons
     npm install react-icons --save
+
+Install Tailwind CSS
+    npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat
+    npm install @craco/craco
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
